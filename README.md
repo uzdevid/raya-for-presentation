@@ -1,3 +1,3 @@
 Server: https://github.com/uzdevid/raya-core
 
-Desktop client: github.com/uzdevid/raya
+Desktop client: https://github.com/uzdevid/raya
